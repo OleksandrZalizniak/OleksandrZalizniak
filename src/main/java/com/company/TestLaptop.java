@@ -16,4 +16,3 @@ public class TestLaptop {
         laptop.displayDetails();
     }
 }
-
